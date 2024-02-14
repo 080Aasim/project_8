@@ -12,6 +12,7 @@ html,body{
     align-items: center;
     justify-content: center;
     background-color: darkcyan;
+    user-select: none;
 }
 
 .cal{
